@@ -6,6 +6,6 @@ export default function Home() {
   return (
       <body>
         <Image src={dashboard} alt="dashboard"/>
-      </Body>
+      </body>
   )
 }
