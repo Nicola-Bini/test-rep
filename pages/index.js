@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="img.png">
+        <img src="img.png" />
       </main>
     </div>
   )
