@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Image src="dashboard" />
+        <Image src="dashboard" alt="dashboard"/>
       </main>
     </div>
   )
